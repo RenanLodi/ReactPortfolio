@@ -1,0 +1,41 @@
+.About-Me{
+    margin-bottom: none;
+    padding: 40px;
+    padding-top: 50px;
+   
+}
+.About-Me h1{
+    font-size: xx-large;
+    font-style: italic;
+    display: table-cell;
+    width: 40px;
+}
+.About-Me p {
+    font-size: 25px;
+    color: black;
+    vertical-align: top;
+    display: table-cell;
+    width: 80%;
+}
+
+.header h1 {
+    display: flex;
+    font-size: 48px;
+   color: black;
+   margin-left: 50px;
+   padding-top: 50px;
+   justify-content: center;
+}
+
+header h1 span .Lodi {
+    color: #448009;
+}
+.footer{
+    display: flex;
+    font-size: 28px;
+   color: black;
+   margin-left: 200px;
+   padding-top: 50px;
+   justify-content: space-evenly;
+   display: flex; 
+}

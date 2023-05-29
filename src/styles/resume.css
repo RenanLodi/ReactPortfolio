@@ -1,0 +1,13 @@
+#Resume{
+    background-color: antiquewhite;
+    justify-content: center;
+    align-items: center;
+    display: block;
+    padding: 50px;
+    margin: 50px;
+}
+
+#resume li{
+    color: black;
+    font-style: italic;
+}

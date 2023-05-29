@@ -1,0 +1,35 @@
+.wrapper1 {
+    margin: 50px;
+    padding: 30px;
+    background-color: greenyellow;
+    
+}
+
+.container {
+    position: relative;
+}
+
+.content {
+    position: absolute;
+    bottom: 40px;
+    background-color: greenyellow;
+    color: #100f0f;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.container img {
+    border: 5px solid green;
+    border-radius: 4px;
+    width: 700px;
+    height: 300px;
+    margin: 20px;
+    background-image: url('../components/images/02-portfolio-4.jpg');
+
+}
+
+
+img:hover {
+    box-shadow: 0 0 2px 1px rgba(57, 143, 103, 0.5);
+    opacity: 0.3;
+}

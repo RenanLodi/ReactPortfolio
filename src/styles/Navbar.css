@@ -1,0 +1,19 @@
+ul{
+    background-image: url('../components/images/02-hero-bg.jpg');
+    background-size: cover;
+    height: 90px;
+    width: 100%;
+    font-size: larger;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 10px;
+    align-items: center;
+}
+
+ul li{
+   color: aquamarine; 
+}
+
+ul li .nav-items {
+    font-size: xx-large;
+}

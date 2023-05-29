@@ -1,0 +1,45 @@
+.wrapper .form {
+  margin-left: 180px;
+  justify-content: space-between;
+
+}
+
+.wrapper .form input {
+  display: block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 40%;
+  margin-left: 250px;
+}
+
+  .wrapper form button {
+  display: block;
+  justify-content: center;
+  font-size: larger;
+  margin-left: 400px;
+  
+}
+
+.wrapper p {
+  display: flex;
+  justify-content: center;
+  font-size: larger;
+  margin-top: 70px;
+  
+}
+.wrapper{
+  background-color: rgb(229, 240, 237);
+  display: block;
+  justify-content: center;
+  margin: 50px;
+  padding: 10px;
+}
+
+.form input .msg {
+  display: block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 30%;
+  margin-left: 250px;
+  height: 300px;
+}
